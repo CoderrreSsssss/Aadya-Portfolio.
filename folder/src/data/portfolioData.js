@@ -32,7 +32,6 @@ const details = {
 'IMG_0208.jpg': { category: 'nature', title: 'Pine Canopy', caption: 'Deep green foliage framing morning fog.' },
 'IMG_0199.jpg': { category: 'nature', title: 'Misty Valleys', caption: 'Rolling hills wrapped in soft haze.' },
 'IMG_7584754897.jpeg': { category: 'nature', title: 'Pelican Haven', caption: 'Preening birds beside lush forest banks.' },
-'IMG_0101.jpg': { category: 'creative', title: 'Color Blocks', caption: 'Vibrant painted bricks along the curb.' },
 'IMG_4017.jpg': { category: 'creative', title: 'Minimal Sweet', caption: 'Delicate pastry plated with fresh fruit.' },
 'IMG_0026.jpg': { category: 'nature', title: 'Sunset Tide', caption: 'Warm amber glow melting into ocean waves.' },
 'IMG_6891.jpg': { category: 'nature', title: 'Midnight Canopy', caption: 'Gnarled mossy branches reaching under dark skies.' },
