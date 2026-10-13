@@ -69,7 +69,6 @@ export const site = {
 
 export const categories = [
   { key: 'all', label: 'All Work', full: 'All Work' },
-  { key: 'portrait', label: 'Portraits', full: 'Portrait Photography' },
   { key: 'nature', label: 'Nature', full: 'Nature & Landscapes' },
   { key: 'street', label: 'Street', full: 'Street Photography' },
   { key: 'architecture', label: 'Architecture', full: 'Architecture & Details' },
@@ -77,7 +76,7 @@ export const categories = [
   { key: 'travel', label: 'Travel', full: 'Travel & Places' },
 ]
 
-const autoKeys = ['portrait', 'nature', 'street', 'architecture', 'creative']
+const autoKeys = ['nature', 'street', 'architecture', 'creative']
 const text = {
   portrait: [['The Quiet Gaze', 'A calm expression that says more than words.'], ['A Moment Unscripted', 'A natural, unposed moment.'], ['Soft Light', 'Gentle light on a familiar face.']],
   nature: [['Golden Hour', 'Warm light settling over the scene.'], ['Nature in Stillness', 'Quiet details of the natural world.'], ['Open Skies', 'Space, colour and a wide horizon.']],
